@@ -6,6 +6,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#Overview)
   - [Screenshot](#Screenshot)
+    - [Mobile view](#Mobile-view)
+    - [Desktop view](#Desktop-view)
   - [Links](#Links)
 - [My process](#My-process)
   - [Built with](#Built-with)
@@ -20,7 +22,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
+### Mobile view
+
 ![](./screenshot.JPG)
+
+### Desktop view
+
+![](./desktop-view.JPG)
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
